@@ -1,0 +1,23 @@
+{
+    "expenses":
+    [
+        {
+            "id":1,
+            "description":"Cash",
+            "amount":400,
+            "remarks":"expense"
+        },
+        {
+            "id":2,
+            "description":"Credit",
+            "amount":400,
+            "remarks":"income"
+        },
+        {
+            "id":3,
+            "description":"Cash",
+            "amount":600,
+            "remarks":"income"
+        }
+    ]
+}
